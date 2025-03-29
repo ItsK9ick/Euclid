@@ -50,8 +50,11 @@ Built with performance, discretion, and customization in mind.
    - Set everything up in that folder
 4. Run `Euclid.exe` to launch.
 
-⚠️ You **must** have a compatible GPU (NVIDIA recommended)  
-⚠️ First launch may take longer as files initialize
+[![Requirement](https://img.shields.io/badge/Requirement-Latest_NVIDIA_Game--Ready_Drivers-red)](https://www.nvidia.com/en-us/software/nvidia-app/)  
+[![Requirement](https://img.shields.io/badge/Requirement-Latest_C++_Redistributable-red)](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170)
+
+[![Precaution](https://img.shields.io/badge/Precaution-Make%20sure%20you%20are%20running%20Performance%20Mode%20%28not%20Power%20Saver%29-orange)]()  
+[![Precaution](https://img.shields.io/badge/Precaution-First_launch_may_take_longer-orange)]()
 
 ---
 
