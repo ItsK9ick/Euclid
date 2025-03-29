@@ -31,7 +31,8 @@ Built with performance, discretion, and customization in mind.
 
 ![image](https://github.com/user-attachments/assets/c6220f12-f435-4ee3-955d-06ae3b29a065)
 
-![image](https://github.com/user-attachments/assets/1c479022-6378-4479-bc9b-a0c6965dbd2f)
+![image](https://github.com/user-attachments/assets/ab906d6a-17e7-41b2-a746-f78ef98ecb85)
+
 
 ![image](https://github.com/user-attachments/assets/0c768643-8627-459e-ade3-5d26b40dd652)
 
