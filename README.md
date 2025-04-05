@@ -1,10 +1,10 @@
-# Euclid — AI-Powered Auto Skillcheck System for Dead by Daylight 🎯
+# Euclid — AI-Powered Auto Input System for Targets 🎯
 
 ![banner](https://github.com/user-attachments/assets/271b9a83-374c-4592-a03e-8b0eec4f862e)
 
 
-**Euclid** is a real-time, AI-driven automation tool designed to detect and hit skillchecks in *Dead by Daylight* (or similar games).  
-It uses an ONNX model trained to identify skillcheck visuals and automatically presses **space** at the correct moment.
+**Euclid** is a real-time, AI-driven automation tool designed to detect and hit targets.  
+It uses an ONNX model trained to identify target visuals and automatically presses **space** at the correct moment.
 
 Built with performance, discretion, and customization in mind.
 
@@ -12,7 +12,7 @@ Built with performance, discretion, and customization in mind.
 
 ## ⚙️ Features
 
-- ✅ **AI-based skillcheck detection** using a trained ONNX model  
+- ✅ **AI-based target detection** using a trained ONNX model  
 - 🧠 Supports **GPU acceleration** via ONNX Runtime + CUDA  
 - ⚡ Ultra-fast response, designed for real-time decision making (60+ FPS image processing)  
 - 🔥 **Risky/Safe mode toggle** for custom hit timing behavior  
